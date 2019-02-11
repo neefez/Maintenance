@@ -1,0 +1,10 @@
+C:\Users\newfo\Desktop\SeGroup\src\CarRentalSystem\AccessAssistant\bin\Debug\AccessAssistant.dll
+C:\Users\newfo\Desktop\SeGroup\src\CarRentalSystem\AccessAssistant\bin\Debug\AccessAssistant.pdb
+C:\Users\newfo\Desktop\SeGroup\src\CarRentalSystem\AccessAssistant\obj\Debug\AccessAssistant.csprojResolveAssemblyReference.cache
+C:\Users\newfo\Desktop\SeGroup\src\CarRentalSystem\AccessAssistant\obj\Debug\AccessAssistant.dll
+C:\Users\newfo\Desktop\SeGroup\src\CarRentalSystem\AccessAssistant\obj\Debug\AccessAssistant.pdb
+C:\Users\newfo\Desktop\SeGroup\spikes\Spike3\AccessAssistant\bin\Debug\AccessAssistant.dll
+C:\Users\newfo\Desktop\SeGroup\spikes\Spike3\AccessAssistant\bin\Debug\AccessAssistant.pdb
+C:\Users\newfo\Desktop\SeGroup\spikes\Spike3\AccessAssistant\obj\Debug\AccessAssistant.csprojResolveAssemblyReference.cache
+C:\Users\newfo\Desktop\SeGroup\spikes\Spike3\AccessAssistant\obj\Debug\AccessAssistant.dll
+C:\Users\newfo\Desktop\SeGroup\spikes\Spike3\AccessAssistant\obj\Debug\AccessAssistant.pdb

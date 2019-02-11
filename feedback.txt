@@ -1,0 +1,31 @@
+release 0: 22/25
+
+you should keep all previous group status update instead of replacing it.
+
+story number should reflect story categories.
+
+in the release report, the planned stories and spikes should use man-hour. Otherwise, 26 is not consistent with 56.
+
+All spikes should include source code.
+
+
+release 1: 28/30
+
+foucs on UI design more.
+
+DBObject ==> DBHandler.
+
+stick to tdd.
+
+
+release 2: 29/30
+
+no subtasks fo release 3 stories.
+
+
+release 3: 28/30
+
+DBController is the receiver, not DBObject.
+
+after undo adding a car, result is not refreshed.
+

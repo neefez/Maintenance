@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spike3", "Spike3.csproj", "{12F99875-0AEB-4658-AD6A-BE21E6FB3B46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessAssistant", "..\AccessAssistant\AccessAssistant.csproj", "{7913A38E-2A63-4242-AC5B-F0119CD97553}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12F99875-0AEB-4658-AD6A-BE21E6FB3B46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12F99875-0AEB-4658-AD6A-BE21E6FB3B46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12F99875-0AEB-4658-AD6A-BE21E6FB3B46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12F99875-0AEB-4658-AD6A-BE21E6FB3B46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7913A38E-2A63-4242-AC5B-F0119CD97553}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7913A38E-2A63-4242-AC5B-F0119CD97553}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7913A38E-2A63-4242-AC5B-F0119CD97553}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7913A38E-2A63-4242-AC5B-F0119CD97553}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF32E276-D231-4907-A80E-1998476C9B1C}
+	EndGlobalSection
+EndGlobal
